@@ -1,0 +1,4 @@
+[ {"name": "张三","math": "20","chinese": "伙食部","english": "吃"},
+  {"name": "刘六","math": "21","chinese": "娱乐部","english": "乐"},
+  {"name": "赵五","math": "22","chinese": "文艺部","english": "玩"},
+  {"name": "李四","math": "22","chinese": "餐饮部","english": "喝"}]
